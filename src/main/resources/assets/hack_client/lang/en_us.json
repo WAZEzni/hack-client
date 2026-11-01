@@ -1,0 +1,11 @@
+{
+  "key.category.hack_client.main": "HACK CLIENT",
+  "key.hack_client.clickgui": "Open ClickGUI",
+  "key.hack_client.killaura": "KillAura (visual)",
+  "key.hack_client.fly": "Fly (visual)",
+  "key.hack_client.speed": "Speed (visual)",
+  "key.hack_client.esp": "ESP (visual)",
+  "key.hack_client.scaffold": "Scaffold (visual)",
+  "key.hack_client.nofall": "NoFall (visual)",
+  "key.hack_client.autosprint": "AutoSprint (visual)"
+}
